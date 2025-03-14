@@ -7,7 +7,6 @@
         "**/.git": true,
         "**/.svn": true,
         "**/.hg": true,
-        "**/CVS": true,
         "**/.idea": true,
         "**/.DS_Store": true,
         "**/*.meta": true,
@@ -69,10 +68,6 @@
     "git.autofetch": true,
     "git.ignoreMissingGitWarning": true,
     "editor.accessibilitySupport": "on",
-    "terminal.integrated.env.osx": {
-        "FIG_NEW_SESSION": "1",
-        "Q_NEW_SESSION": "1"
-    },
     "markdown.marp.mathTypesetting": "katex",
     "workbench.preferredDarkColorTheme": "Anysphere",
     "workbench.preferredHighContrastColorTheme": "Cursor Dark High Contrast",
