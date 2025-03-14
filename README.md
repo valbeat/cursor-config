@@ -1,6 +1,6 @@
-# cursor-settings
+# cursor-config
 
-My cursor-settings
+My cursor config
 
 ## Usage
 ```
