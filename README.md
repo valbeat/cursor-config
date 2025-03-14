@@ -10,11 +10,11 @@ ln -sfnv $(pwd)/keybindings.json ~/Library/Application\ Support/Cursor/User/
 ln -sfnv $(pwd)/snippets ~/Library/Application\ Support/Cursor/User/
 
 # Install extensions
-cat extensions.txt | xargs -L1 code --install-extension
+cat extensions.txt | xargs -L1 cursor --install-extension
 ```
 
 ## Backup
 ```
-code --list-extensions > extensions.txt
+cursor --list-extensions > extensions.txt
 ```
 
