@@ -1,0 +1,130 @@
+{
+    "editor.autoIndent": "advanced",
+    "search.excludeFolders": [
+        ".git",
+        "Library",
+        "obj",
+        "Temp",
+        "ProjectSettings"
+    ],
+    "workbench.editor.enablePreview": false,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Abyss",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.idea": true,
+        "**/.DS_Store": true,
+        "**/*.meta": true,
+        "**/*.anim": true,
+        "**/*.mat": true,
+        "**/*.controller": true,
+        "**/*.prefab": true,
+        "**/*.asset": true
+    },
+    "material-icon-theme.showUpdateMessage": false,
+    "go.goroot": "/usr/local/opt/go/libexec",
+    "csharp.format.enable": false,
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "materialTheme.cache.workbench.settings": {},
+    "window.zoomLevel": 1,
+    "markdown-run-snippet.mdTypeToTemplateMap": {
+        "rust": "fn main() {\n    $snippet\n}",
+        "c++": "#include <iostream>\n#include <string>\nint main(void) {\n    $snippet\n    return 0;\n}"
+    },
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "vim.visualstar": true,
+    "editor.renderWhitespace": "boundary",
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[ruby]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "[makefile]": {
+        "editor.insertSpaces": false
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true
+    },
+    "[markdown]": {
+        "editor.formatOnSave": false,
+        "editor.wordWrap": "on",
+        "editor.renderWhitespace": "all",
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "editor.rulers": [
+        80
+    ],
+    "files.insertFinalNewline": true,
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        ".zshrc.*": "shellscript"
+    },
+    "extensions.ignoreRecommendations": true,
+    "workbench.panel.defaultLocation": "bottom",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "mouseover",
+    "memo-life-for-you.memoPath": "$HOME/bin/memo",
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "memo-life-for-you.listSortOrder": "mtime",
+    "japanese-proofreading.textlint.かっこ類と隣接する文字の間のスペースの有無": false,
+    "japanese-proofreading.textlint.ハイフン(-)": false,
+    "japanese-proofreading.textlint.丸かっこ（）": false,
+    "japanese-proofreading.textlint.全角文字どうし": false,
+    "japanese-proofreading.textlint.全角文字と半角文字の間": false,
+    "japanese-proofreading.textlint.技術用語": false,
+    "japanese-proofreading.textlint.外来語カタカナ表記": false,
+    "japanese-proofreading.textlint.ダッシュ(-)": false,
+    "japanese-proofreading.textlint.句点(。)と読点(、)": false,
+    "japanese-proofreading.textlint.固有名詞": false,
+    "japanese-proofreading.textlint.一部の助数詞の表記": false,
+    "japanese-proofreading.textlint.ひらく漢字": false,
+    "markdown-pdf.displayHeaderFooter": false,
+    "go.useLanguageServer": true,
+    "git.autofetch": true,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "git.ignoreMissingGitWarning": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.mac": "$HOME/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vscode-kubernetes.kubectl-path.mac": "$HOME/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.mac": "$HOME/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+    },
+    "editor.accessibilitySupport": "on",
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1",
+        "Q_NEW_SESSION": "1"
+    },
+    "techtrain-railway.optOutTelemetry": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "markdown.marp.mathTypesetting": "katex",
+    "workbench.preferredDarkColorTheme": "Anysphere",
+    "workbench.preferredHighContrastColorTheme": "Cursor Dark High Contrast",
+    "window.autoDetectColorScheme": true,
+    "workbench.view.showQuietly": {
+        "workbench.panel.output": false
+    },
+    "editor.cursorStyle": "block",
+    "workbench.activityBar.orientation": "vertical"
+}
