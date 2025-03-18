@@ -3,3 +3,4 @@ k--kato.intellij-idea-keybindings
 marp-team.marp-vscode
 ms-ceintl.vscode-language-pack-ja
 vscodevim.vim
+rooveterinaryinc.roo-cline
